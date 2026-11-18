@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zera Tela</string>
+    <string name="acc_desc">Detecta qual app está aberto para bloquear os que passaram do limite diário que você definiu. Nenhum conteúdo da tela é lido e nada sai do aparelho.</string>
+</resources>
